@@ -11,3 +11,5 @@ Got an great idea for a new feature in push? If your feature is already requeste
 ## Questions
 Questions MUST be tagged `question`.
 We've all got a lot of questions these days. Will the UK ever invoke article 50? Will there really be a wall between America and Maxico? We can't answer all of your questions but if it's about push us or our comminity can at least bring some clarity to your life so fire away.
+
+Now that you know the rules please send us your bugs, enhancemets and questions at https://github.com/drie/push-issues/issues
